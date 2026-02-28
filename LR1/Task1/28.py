@@ -8,4 +8,4 @@ for r in range(3):
         n += int(b)
     numbers.append(n)
 for num in numbers:
-    print(num)
+    print("{}".format(num))
